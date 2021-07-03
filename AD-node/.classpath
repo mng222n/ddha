@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="build/IM.jar"/>
+	<classpathentry kind="lib" path="lib/commons-cli-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/customizer.jar"/>
+	<classpathentry kind="lib" path="lib/db-4.2.52.jar"/>
+	<classpathentry kind="lib" path="lib/diva-26Sep02.jar"/>
+	<classpathentry kind="lib" path="lib/jmf.jar"/>
+	<classpathentry kind="lib" path="lib/jrpcgen.jar"/>
+	<classpathentry kind="lib" path="lib/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.8.jar"/>
+	<classpathentry kind="lib" path="lib/mediaplayer.jar"/>
+	<classpathentry kind="lib" path="lib/multiplayer.jar"/>
+	<classpathentry kind="lib" path="lib/oncrpc.jar"/>
+	<classpathentry kind="lib" path="lib/ostore-seda-emu.jar" sourcepath="lib/ostore-seda-emu.jar"/>
+	<classpathentry kind="lib" path="lib/tracesviewer.jar"/>
+	<classpathentry kind="lib" path="lib/xmlrpc-1.2-b1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/eclipse/skproject/Expeshare/lib/forms.jar"/>
+	<classpathentry kind="output" path="src"/>
+</classpath>

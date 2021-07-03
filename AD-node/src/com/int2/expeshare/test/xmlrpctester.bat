@@ -1,0 +1,1 @@
+java -classpath ..\..\..\..\..\lib\xmlrpc-1.2-b1.jar com.int2.expeshare.test.HelloServer

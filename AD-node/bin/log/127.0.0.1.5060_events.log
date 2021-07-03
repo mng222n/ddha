@@ -1,0 +1,10 @@
+SipProvider-5060: Date: 00:09:57.909 Sun 03 Aug 2008
+SipProvider-5060: SipStack: mjsip stack 1.6
+SipProvider-5060: new SipProvider(): 5060/udp/tcp
+SipProvider-5060: udp is up
+SipProvider-5060: tcp is up
+SipProvider-5060: adding SipProviderListener: ANY
+SipProvider-5060: 1 listeners: ANY, 
+Registrar: Domains=wonderland.net, neverland.net
+Registrar: LocationService (local): size=0
+
