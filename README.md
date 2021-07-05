@@ -1,4 +1,3 @@
-# AD
-the code aims at developing a platform social network enhancement toward the user experiments
+# ADHC: Proof-Of-Concept
+This project aims at implementing ADHC system using Java
 ![image](https://github.com/mng335n/AD/blob/master/ADClient.png)
-
